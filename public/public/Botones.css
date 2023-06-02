@@ -1,0 +1,87 @@
+html{
+    background-color:rosybrown ;
+  
+   
+}
+
+h1{
+    width: 400px ;
+    height: 10;
+    color: purple;
+    border-style: dashed;
+    border-color: rgb(161, 3, 3);
+    border-color: #f59c36 ;
+    background-color: rgb(255, 251, 0);
+    border-width: 10px;
+    border-radius: 10px;
+    background-position: center;
+    text-align: center;
+
+}
+p{
+    color: rgb(250, 215, 241);text-align: center;
+
+}
+p{
+    color: black;text-align: center; 
+
+}
+
+.estilo{
+    background-color: #e3138c;
+    border-style: double;
+    width: 60px;
+    height: 40px;
+    display: block;
+    font-size: 20px;
+    border-radius: 15px;
+    
+}
+.estilo1 {
+    color: black;
+    background-color:rgb(255, 47, 47);
+    border-radius: 5px;
+    text-align: center;
+    border-color: blue;
+    border-radius: 15px;
+}
+  
+.estilo2 {
+    color: rgb(0, 255, 64);
+    background-color: rgb(179, 134, 66);
+    border-radius: 5px;
+    text-align: center;
+    border-color: rgb(255, 0, 179);
+    border-radius: 15px;
+}
+
+  
+.estilo3 {
+    color: rgb(226, 43, 43);
+    background-color: rgb(200, 238, 130);
+    border-radius: 5px;
+    text-align: center;
+    border-color: #07aaeb;
+    border-radius: 15px;
+}
+body.estilo1 {
+    background-color: #1625f5;
+    
+}
+  
+body.estilo2 {
+    background-color: #ee0996;
+    
+}
+  
+body.estilo3 {
+    background-color: #fd0a90;
+    
+}
+
+button{
+   border-radius: 15px;
+   border-width: 2px;
+   border-style: dashed;
+   border-color: #fd0a90;
+}

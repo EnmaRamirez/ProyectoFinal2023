@@ -1,0 +1,34 @@
+div{ 
+    padding: 8px;
+    width: 60%;
+    margin: auto;
+    border-radius: 20%;
+    
+    }
+    
+    
+    fieldset{
+        margin-bottom: 10px;
+    }
+    legend{
+        padding: 5px;
+        border-radius: 15%;
+        background-color: brown;
+    }
+    
+    li{
+        background-color: grey;
+    }
+    
+    body{
+        background-color: gainsboro;
+        border: 2px solid black
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    .bordes-redondiados{
+        border-radius: 20%;
+    }
